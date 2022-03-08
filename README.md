@@ -7,7 +7,7 @@
 
 
 ## About
-I implemented a version of the Arkanoid game, as part of the OOP course i took during my bachelor degree.</br>
+I implemented a version of the Arkanoid game, as part of the OOP course I took during my bachelor degree.</br>
 The game contains various levels with increasing difficulty, in a gui friendly platform.</br>
 I implemented the game with Java language using Intellij IDEA Ultimate IDE, using the following OOP principals:
 * Polymorphism and inheritance.
